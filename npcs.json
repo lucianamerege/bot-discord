@@ -1,0 +1,164 @@
+{
+    "npcs": [
+        {
+            "Nome": "Eldranthor",
+            "Raça": "Elfo",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Lyria Estrela",
+            "Raça": "Humano",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Grimnar Pedraforte",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Seraphina",
+            "Raça": "Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Thorin Coração de Ferro",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Aria",
+            "Raça": "Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Darian",
+            "Raça": "Humano",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Bran Martelo de Aço",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Leilir",
+            "Raça": "Meio-Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Korg Folha de Ouro",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Elarae",
+            "Raça": "Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Gideon Sangue de Dragão",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Isabella",
+            "Raça": "Humano",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Thrain Punho Forte",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Sylas Olho de Corvo",
+            "Raça": "Meio-Elfo",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Lena Pés Rápidos",
+            "Raça": "Halfling",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Rurik Olho Nobre",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Erelyn",
+            "Raça": "Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Nimriel Luz da Lua",
+            "Raça": "Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Aldarion Pedra de Trovão",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Elysia Coração Selvagem",
+            "Raça": "Meio-Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Cedric Cavaleiro da Aurora",
+            "Raça": "Humano",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Morgana",
+            "Raça": "Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Gorim Martelo de Bronze",
+            "Raça": "Anão",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Thalia Canção da Brisa",
+            "Raça": "Elfo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Roderick Lâmina Veloz",
+            "Raça": "Humano",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Saria Folha Dourada",
+            "Raça": "Halfling",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Gavric Olho de Falcão",
+            "Raça": "Meio-Elfo",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Gimble Lanterna",
+            "Raça": "Gnomo",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Nixie Brilho Estelar",
+            "Raça": "Gnomo",
+            "Gênero": "Feminino"
+        },
+        {
+            "Nome": "Zook Lampejo",
+            "Raça": "Gnomo",
+            "Gênero": "Masculino"
+        },
+        {
+            "Nome": "Fizzbang Faísca",
+            "Raça": "Gnomo",
+            "Gênero": "Feminino"
+        }
+    ]
+}

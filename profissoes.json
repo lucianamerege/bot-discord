@@ -1,0 +1,194 @@
+{
+    "profissoes": [
+        {
+            "nome": "Caçador",
+            "quantidade": 3,
+            "STR": 10,
+            "DEX": 14,
+            "CON": 10,
+            "INT": 8,
+            "WIS": 12,
+            "CHA": 8
+        },
+        {
+            "nome": "Curandeira",
+            "quantidade": 1,
+            "STR": 8,
+            "DEX": 10,
+            "CON": 12,
+            "INT": 10,
+            "WIS": 14,
+            "CHA": 8
+        },
+        {
+            "nome": "Ferreiro",
+            "quantidade": 2,
+            "STR": 14,
+            "DEX": 10,
+            "CON": 12,
+            "INT": 12,
+            "WIS": 8,
+            "CHA": 10
+        },
+        {
+            "nome": "Guarda",
+            "quantidade": 4,
+            "STR": 14,
+            "DEX": 10,
+            "CON": 12,
+            "INT": 10,
+            "WIS": 8,
+            "CHA": 8
+        },
+        {
+            "nome": "Herbalista",
+            "quantidade": 2,
+            "STR": 8,
+            "DEX": 12,
+            "CON": 8,
+            "INT": 12,
+            "WIS": 14,
+            "CHA": 10
+        },
+        {
+            "nome": "Desempregado",
+            "quantidade": 2,
+            "STR": 10,
+            "DEX": 10,
+            "CON": 10,
+            "INT": 10,
+            "WIS": 10,
+            "CHA": 10
+        },
+        {
+            "nome": "Lenhador",
+            "quantidade": 2,
+            "STR": 14,
+            "DEX": 10,
+            "CON": 12,
+            "INT": 8,
+            "WIS": 8,
+            "CHA": 10
+        },
+        {
+            "nome": "Chefe da guarda",
+            "quantidade": 1,
+            "STR": 14,
+            "DEX": 12,
+            "CON": 14,
+            "INT": 10,
+            "WIS": 10,
+            "CHA": 12
+        },
+        {
+            "nome": "Vendedor",
+            "quantidade": 5,
+            "STR": 8,
+            "DEX": 10,
+            "CON": 8,
+            "INT": 12,
+            "WIS": 12,
+            "CHA": 14
+        },
+        {
+            "nome": "Proprietário da taverna",
+            "quantidade": 1,
+            "STR": 10,
+            "DEX": 12,
+            "CON": 10,
+            "INT": 10,
+            "WIS": 10,
+            "CHA": 14
+        },
+        {
+            "nome": "Músico Viajante",
+            "quantidade": 1,
+            "STR": 8,
+            "DEX": 12,
+            "CON": 8,
+            "INT": 10,
+            "WIS": 12,
+            "CHA": 14
+        },
+        {
+            "nome": "Carpinteiro",
+            "quantidade": 2,
+            "STR": 12,
+            "DEX": 12,
+            "CON": 12,
+            "INT": 10,
+            "WIS": 10,
+            "CHA": 10
+        },
+        {
+            "nome": "Tecelã",
+            "quantidade": 1,
+            "STR": 8,
+            "DEX": 14,
+            "CON": 8,
+            "INT": 12,
+            "WIS": 12,
+            "CHA": 10
+        },
+        {
+            "nome": "Dono da hospedaria",
+            "quantidade": 1,
+            "STR": 10,
+            "DEX": 12,
+            "CON": 10,
+            "INT": 10,
+            "WIS": 10,
+            "CHA": 12
+        },
+        {
+            "nome": "Clérigo",
+            "quantidade": 3,
+            "STR": 8,
+            "DEX": 8,
+            "CON": 12,
+            "INT": 10,
+            "WIS": 14,
+            "CHA": 12
+        },
+        {
+            "nome": "Faz-tudo",
+            "quantidade": 1,
+            "STR": 12,
+            "DEX": 12,
+            "CON": 12,
+            "INT": 12,
+            "WIS": 12,
+            "CHA": 12
+        },
+        {
+            "nome": "Coveiro",
+            "quantidade": 3,
+            "STR": 12,
+            "DEX": 10,
+            "CON": 12,
+            "INT": 10,
+            "WIS": 14,
+            "CHA": 10
+        },
+        {
+            "nome": "Fazendeiro",
+            "quantidade": 5,
+            "STR": 14,
+            "DEX": 10,
+            "CON": 14,
+            "INT": 8,
+            "WIS": 10,
+            "CHA": 8
+        },
+        {
+            "nome": "Criança",
+            "quantidade": 4,
+            "STR": 8,
+            "DEX": 10,
+            "CON": 12,
+            "INT": 6,
+            "WIS": 6,
+            "CHA": 10
+        }
+    ]
+}

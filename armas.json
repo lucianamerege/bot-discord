@@ -1,0 +1,88 @@
+{
+    "armas": [
+        {
+            "nome": "Adaga",
+            "dano": "1d4 + DEX"
+        },
+        {
+            "nome": "Cajado",
+            "dano": "1d6 + STR"
+        },
+        {
+            "nome": "Espada Curta",
+            "dano": "1d6 + DEX"
+        },
+        {
+            "nome": "Espada Longa",
+            "dano": "1d8 + STR"
+        },
+        {
+            "nome": "Arco De Caça",
+            "dano": "1d6 + DEX"
+        },
+        {
+            "nome": "Besta de Mão",
+            "dano": "1d6 + DEX"
+        },
+        {
+            "nome": "Besta Leve",
+            "dano": "1d8 + DEX"
+        },
+        {
+            "nome": "Picareta",
+            "dano": "1d8 + STR"
+        },
+        {
+            "nome": "Chicote",
+            "dano": "1d4 + DEX"
+        },
+        {
+            "nome": "Machado",
+            "dano": "1d8 + STR"
+        },
+        {
+            "nome": "Lança",
+            "dano": "1d6 + STR"
+        },
+        {
+            "nome": "Foice",
+            "dano": "1d4 + STR"
+        },
+        {
+            "nome": "Estilingue",
+            "dano": "1d4 + DEX"
+        },
+        {
+            "nome": "Pá",
+            "dano": "1d4 + STR"
+        },
+        {
+            "nome": "Forcado",
+            "dano": "1d6 + STR"
+        },
+        {
+            "nome": "Martelo",
+            "dano": "1d8 + STR"
+        },
+        {
+            "nome": "Martelinho",
+            "dano": "1d4 + STR"
+        },
+        {
+            "nome": "Vassoura",
+            "dano": "1d4 + STR"
+        },
+        {
+            "nome": "Frigideira",
+            "dano": "1d4 + STR"
+        },
+        {
+            "nome": "Garrafa",
+            "dano": "1d4 + STR"
+        },
+        {
+            "nome": "Colher de pau",
+            "dano": "1d4 + STR"
+        }
+    ]
+}
